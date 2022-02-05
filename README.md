@@ -5,7 +5,7 @@
 
 Toast library  (learn to create android library)
 
-## Installion
+## Prerequisites
 
 Add this in your root `build.gradle` file (**not** your module `build.gradle` file):
 
