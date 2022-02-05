@@ -25,7 +25,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 ```gradle
 dependencies {
 	...
-	implementation 'com.github.Murodhonov:Mytoastlibrary:0.1.0'
+	implementation 'com.github.Murodhonov:Mytoastlibrary:0.2.0'
 }
 ```
 
