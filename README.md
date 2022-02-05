@@ -28,3 +28,15 @@ dependencies {
 	implementation 'com.github.Murodhonov:Mytoastlibrary:0.1.0'
 }
 ```
+
+## Usage
+
+It's simple to use for example
+
+``` kotlin
+MyToaster.toastShort(context,"This is a short time toast")
+```
+
+``` kotlin
+MyToaster.toastLong(context,"This is a long time toast")
+```
